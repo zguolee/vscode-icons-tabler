@@ -456,7 +456,7 @@ export const sets: IconSet[] = [
       // 'codicon:wrench': 'tabler:',
       // 'codicon:wrench-subaction': 'tabler:',
       // 'codicon:x': 'tabler:',
-      // 'codicon:zap': 'carbon:',
+      // 'codicon:zap': 'tabler:',
       'codicon:zoom-in': 'tabler:zoom-in',
       'codicon:zoom-out': 'tabler:zoom-out',
     },
